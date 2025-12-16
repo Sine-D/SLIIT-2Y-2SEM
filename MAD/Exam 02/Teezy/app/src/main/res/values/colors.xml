@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="red">#851e1e</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Colors for acoording to palette -->
+    <color name="darkgray">#111827</color>
+    <color name="grey">#374151</color>
+    <color name="lightGrey">#c1bec4</color>
+
+    <!-- 60-30-10 Palette -->
+    <!-- Primary (60%) -->
+    <color name="primary">#111827</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <!-- Secondary (30%) -->
+    <color name="secondary">#374151</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <!-- Accent (10%) -->
+    <color name="accent">#c1bec4</color>
+    <color name="onAccent">#111827</color>
+</resources>

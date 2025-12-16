@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Teezy</string>
+
+    <string name="sign_in_text">
+        Don\'t have an account? <font color="#FF0000">SIGN IN</font>
+    </string>
+
+    <!-- Strings -->
+    <string name="login_title">Log in</string>
+    <string name="register_title">Sign In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="search_hint">Search</string>
+    <string name="categories">Categories</string>
+    <string name="trending">Trending</string>
+    <string name="latest">Latest</string>
+    <string name="buy">Buy</string>
+    <string name="select_color">Select color</string>
+    <string name="select_size">Select size</string>
+    <string name="quantity">Quantity</string>
+    <string name="select_size_prompt">Choose a size</string>
+    <string name="color_white">White</string>
+    <string name="color_black">Black</string>
+    <string name="color_blue">Blue</string>
+
+</resources>

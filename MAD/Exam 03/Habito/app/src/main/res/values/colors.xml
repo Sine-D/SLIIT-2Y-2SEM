@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ZenFlow Purple/Indigo Theme -->
+    <color name="primary_blue">#6366F1</color>
+    <color name="primary_purple">#8B5CF6</color>
+    <color name="primary_indigo">#6366F1</color>
+    <color name="primary_pink">#EC4899</color>
+    
+    <!-- Light Background Gradients -->
+    <color name="gradient_start">#E0E7FF</color>
+    <color name="gradient_middle">#C7D2FE</color>
+    <color name="gradient_end">#A5B4FC</color>
+
+    <!-- Card and Surface Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#F1F5F9</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_hint">#64748B</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Accent Colors (ZenFlow Theme) -->
+    <color name="accent_green">#10B981</color>
+    <color name="accent_orange">#F59E0B</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_yellow">#EAB308</color>
+    <color name="accent_purple">#8B5CF6</color>
+    <color name="accent_indigo">#6366F1</color>
+    
+    <!-- Light Mode Glass Effect -->
+    <color name="glass_white">#F8FAFC</color>
+    <color name="glass_dark">#10000000</color>
+    
+    <!-- Status Colors (Light Mode) -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Light Mode Specific Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="divider">#F1F5F9</color>
+    
+    <!-- ZenFlow Specific Colors -->
+    <color name="zen_purple">#8B5CF6</color>
+    <color name="zen_indigo">#6366F1</color>
+    <color name="zen_lavender">#DDD6FE</color>
+    <color name="zen_light_purple">#F3F4F6</color>
+    <color name="zen_deep_purple">#5B21B6</color>
+    <color name="zen_meditation">#A78BFA</color>
+    <color name="zen_calm">#C4B5FD</color>
+    <color name="zen_focus">#8B5CF6</color>
+    <color name="zen_peace">#E0E7FF</color>
+    
+    <!-- Traditional Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+</resources>

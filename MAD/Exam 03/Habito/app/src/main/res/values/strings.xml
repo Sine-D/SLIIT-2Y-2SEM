@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">ZenFlow</string>
+    
+    <!-- Navigation -->
+    <string name="title_habits">Meditation</string>
+    <string name="title_mood">Mindfulness</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_dashboard">Zen Space</string>
+    
+    <!-- Meditation Sessions -->
+    <string name="add_habit">Start Session</string>
+    <string name="edit_habit">Edit Session</string>
+    <string name="habit_title">Session Name</string>
+    <string name="habit_target">Duration (minutes)</string>
+    <string name="habit_category">Meditation Type</string>
+    <string name="habit_time_of_day">Preferred Time</string>
+    <string name="save">Save Session</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete Session</string>
+    <string name="mark_complete">Complete Session</string>
+    <string name="completion_percentage">%d%% Complete</string>
+    
+    <!-- Mindfulness Tracking -->
+    <string name="add_mood_entry">Log Mindfulness</string>
+    <string name="mood_note">Reflection (optional)</string>
+    <string name="select_emoji">How do you feel after your practice?</string>
+    <string name="export_mood_summary">Export Progress</string>
+    <string name="share_mood">Share Journey</string>
+    
+    <!-- Settings -->
+    <string name="hydration_reminders">Breathing Reminders</string>
+    <string name="reminder_interval">Reminder Interval</string>
+    <string name="daily_water_goal">Daily Practice Goal</string>
+    <string name="start_time">Morning Practice</string>
+    <string name="end_time">Evening Practice</string>
+    <string name="notifications">Notifications</string>
+    <string name="dark_theme">Dark Mode</string>
+    
+    <!-- Notifications -->
+    <string name="hydration_reminder_title">Time to Breathe</string>
+    <string name="hydration_reminder_text">Take a moment for mindfulness</string>
+    <string name="mark_water_consumed">Mark Practice Complete</string>
+    
+    <!-- General -->
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="this_week">This Week</string>
+    <string name="no_data">No sessions yet</string>
+    <string name="loading">Loading...</string>
+    <string name="daily_habits">Daily Practice</string>
+    <string name="logout_confirm_title">Sign Out</string>
+    <string name="logout_confirm_message">Are you sure you want to sign out?</string>
+    <string name="logout">Sign Out</string>
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current password</string>
+    <string name="new_password">New password</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="passwords_not_match">Passwords do not match</string>
+    <string name="mood_trend">Mindfulness trend (7 days)</string>
+    <string name="total_habits">Total sessions</string>
+    <string name="done_today">Completed today</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_image"> </string>
+    <string name="title">ZenFlow</string>
+    <string name="sub_title">Find Your Inner Peace</string>
+
+    <string name="onb_image"> </string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="welcome1">Sign in to continue your mindfulness journey</string>
+    <string name="hint">Password</string>
+    <string name="hint_email">Email</string>
+
+    <!-- New ZenFlow specific strings -->
+    <string name="meditation_types">Meditation Types</string>
+    <string name="breathing_exercises">Breathing Exercises</string>
+    <string name="guided_meditation">Guided Meditation</string>
+    <string name="body_scan">Body Scan</string>
+    <string name="loving_kindness">Loving Kindness</string>
+    <string name="mindful_walking">Mindful Walking</string>
+    
+    <string name="streak_counter">Day Streak</string>
+    <string name="total_minutes">Total Minutes</string>
+    <string name="calm_level">Calm Level</string>
+    <string name="focus_score">Focus Score</string>
+    
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    
+    <string name="morning_practice">Morning Practice</string>
+    <string name="evening_practice">Evening Practice</string>
+    <string name="anytime">Anytime</string>
+    
+    <string name="zen_quotes">Daily Wisdom</string>
+    <string name="progress_insights">Progress Insights</string>
+    <string name="achievements">Achievements</string>
+    
+    <string name="peaceful">Peaceful</string>
+    <string name="focused">Focused</string>
+    <string name="energized">Energized</string>
+    <string name="calm">Calm</string>
+    <string name="grateful">Grateful</string>
+    <string name="centered">Centered</string>
+
+</resources>

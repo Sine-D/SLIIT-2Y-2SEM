@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Teezy" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- App brand colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/onSecondary</item>
+        <item name="colorTertiary">@color/accent</item>
+    </style>
+
+    <style name="Theme.Teezy" parent="Base.Theme.Teezy" />
+
+    <style name="NoActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@android:color/transparent</item>
+    </style>
+    
+    <!-- Custom SplashScreen theme -->
+    <style name="Theme.Teezy.SplashScreen" parent="Theme.Teezy">
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@android:color/transparent</item>
+    </style>
+</resources>

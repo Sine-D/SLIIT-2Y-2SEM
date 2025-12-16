@@ -1,0 +1,10 @@
+<resources>
+    <!-- Array resource for sizes -->
+    <string-array name="sizes_array">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+</resources>
